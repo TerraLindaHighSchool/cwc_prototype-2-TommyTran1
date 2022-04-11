@@ -18,7 +18,7 @@ public class SpawnManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-   
+
     }
     //Randomly generates animal index and spawn position
     void SpawnRandomAnimal()
